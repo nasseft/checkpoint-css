@@ -1,0 +1,15 @@
+.navbar{
+    text-align: center;
+    margin: 30px;
+    text-transform: capitalize;
+    padding: 5px;
+    justify-content: space-between;
+    color: blueviolet;
+    font-weight: bolder;
+    display:inline;
+    border:saddlebrown;
+    text-decoration: dashed;
+    
+}
+
+
